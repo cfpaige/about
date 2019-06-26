@@ -1,8 +1,8 @@
-# Study Reference Links #
+## Study Reference Links ##
 
 ------------------
 
-## General ##
+### General ###
 
 * [Git Command Line Reference for Windows] https://www.codeproject.com/Articles/457305/Basic-Git-Command-Line-Reference-for-Windows-Users
 * [GitHub]https://github.com/
@@ -12,7 +12,7 @@
 
 ------------------
 
-## Content/Design/Accessibility ##
+### Content/Design/Accessibility ###
 
 * [Abobe Color Wheel]https://color.adobe.com/create/color-wheel/
 * [Image Generator]http://lorempixel.com/
@@ -23,7 +23,7 @@
 
 ------------------
 
-## Languages/Components/Templates ##
+### Languages/Components/Templates ###
 
 * [Reset CSS]https://meyerweb.com/eric/tools/css/reset/
 * [Normalize CSS]https://necolas.github.io/normalize.css/8.0.1/normalize.css
