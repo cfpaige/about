@@ -2,6 +2,9 @@
 
 ------------------
 
+# DON'T PANIC #
+* [Remove Sensitive Data from GitHub]https://help.github.com/en/articles/removing-sensitive-data-from-a-repository
+
 ### General ###
 
 * [Git Command Line Reference for Windows] https://www.codeproject.com/Articles/457305/Basic-Git-Command-Line-Reference-for-Windows-Users
