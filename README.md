@@ -19,7 +19,7 @@
 * [Abobe Color Wheel](https://color.adobe.com/create/color-wheel/)
 * [Image Generator](http://lorempixel.com/)
 * [Backgrounds](https://www.toptal.com/designers/subtlepatterns/)
-* [FrameBox](http://frame box.org/)
+* [FrameBox](http://framebox.org/)
 * [Accessibility Checklist](https://webaim.org/standards/wcag/checklist)
 * [Color Contrast Checker](https://webaim.org/resources/contrastchecker/)
 
